@@ -4146,7 +4146,7 @@ __metadata:
     vue-json-viewer: 2.2.22
     vue-phone-number-input: 1.12.13
     vue-property-decorator: 9.1.2
-    vue-router: 3.5.1
+    vue-router: 3.6.5
     vue-template-compiler: 2.6.12
     vuex: 3.6.2
   languageName: unknown
@@ -15182,7 +15182,7 @@ __metadata:
 
 "typescript@patch:typescript@4.2.3#~builtin<compat/typescript>":
   version: 4.2.3
-  resolution: "typescript@patch:typescript@npm%3A4.2.3#~builtin<compat/typescript>::version=4.2.3&hash=ddd1e8"
+  resolution: "typescript@patch:typescript@npm%3A4.2.3#~builtin<compat/typescript>::version=4.2.3&hash=493e53"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
@@ -15689,10 +15689,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue-router@npm:3.5.1":
-  version: 3.5.1
-  resolution: "vue-router@npm:3.5.1"
-  checksum: 9dca79789517d7e70fb26edb47187a46a2aa2fbdecd8c0a91bb2c8e333c44406bc2a8c39283ab02031651630871e28666a368cd79fcd258025f3521bee30eea9
+"vue-router@npm:3.6.5":
+  version: 3.6.5
+  resolution: "vue-router@npm:3.6.5"
+  checksum: b014ba4cba6838a4a6b7a2352b18982c2fd8bbbd6287e09c510845895d28f1c141fefb88369d1875c0cb6c7336c8536f614c8d1f5ac1c8709d60b4f945c486fb
   languageName: node
   linkType: hard
 
