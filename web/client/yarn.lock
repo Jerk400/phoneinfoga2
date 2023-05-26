@@ -4134,7 +4134,7 @@ __metadata:
     eslint-plugin-prettier: 3.4.0
     eslint-plugin-vue: 7.8.0
     jest: 26.6.3
-    jquery: 3.6.0
+    jquery: 3.6.4
     node-gyp: 8.2.0
     popper.js: 1.16.1
     prettier: 2.2.1
@@ -9636,10 +9636,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jquery@npm:3.6.0":
-  version: 3.6.0
-  resolution: "jquery@npm:3.6.0"
-  checksum: 8fd5fef4aa48fd374ec716dd1c1df1af407814a228e15c1260ca140de3a697c2a77c30c54ff1d238b6a3ab4ddc445ddeef9adce6c6d28e4869d85eb9d3951c0e
+"jquery@npm:3.6.4":
+  version: 3.6.4
+  resolution: "jquery@npm:3.6.4"
+  checksum: 8354f7bd0a0424aa714ee1b6b1ef74b410f834eb5c8501682289b358bc151f11677f11188b544f3bb49309d6ec4d15d1a5de175661250c206b06185a252f706f
   languageName: node
   linkType: hard
 
@@ -15182,7 +15182,7 @@ __metadata:
 
 "typescript@patch:typescript@4.2.3#~builtin<compat/typescript>":
   version: 4.2.3
-  resolution: "typescript@patch:typescript@npm%3A4.2.3#~builtin<compat/typescript>::version=4.2.3&hash=ddd1e8"
+  resolution: "typescript@patch:typescript@npm%3A4.2.3#~builtin<compat/typescript>::version=4.2.3&hash=493e53"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
