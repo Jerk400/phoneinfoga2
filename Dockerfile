@@ -17,8 +17,6 @@ COPY --from=client_builder /app/dist ./web/client/dist
 RUN go get -v -t -d ./...
 RUN make install-tools
 RUN make build
-
-FROM alpine:3.17
 COPY --from=go_builder /app/bin/phoneinfoga /app/phoneinfoga
 EXPOSE 5000
 ENTRYPOINT ["/app/phoneinfoga"]
